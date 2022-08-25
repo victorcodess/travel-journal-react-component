@@ -1,4 +1,4 @@
-# coc434e499cb079d0aa9c85e4
+# travel-journal-react-component
 
 Quick start:
 
