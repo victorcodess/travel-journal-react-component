@@ -4,7 +4,7 @@ import data from "../data"
 
 export default function(props) {
     return (
-        <div className="card">
+        <div className="card" id="card">
         <img className="card-image" src = {`${props.imageUrl}`}/>
         <div className="body">
             <div className="text-box">
