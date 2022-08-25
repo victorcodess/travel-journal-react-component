@@ -1,4 +1,4 @@
-# travel-journal-react-component
+# travel-journal-react-component 
 
 Quick start:
 
